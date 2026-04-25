@@ -1,7 +1,7 @@
 # Environment variables - KABHI GITHUB PAR UPLOAD MAT KARNA
 .env
 .env.local
-env.example
+.env.example
 .env.production
 
 # Build output

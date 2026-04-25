@@ -232,7 +232,7 @@ export default function App() {
         </h1>
 
         <p className="text-base sm:text-lg text-white/50 max-w-md mx-auto mb-8 sm:mb-10 leading-relaxed">
-          Books, notes, past papers — paste a Google Drive link and share with
+          Books, notes, past papers paste a Google Drive link and share with
           the world. No account needed.
         </p>
 
