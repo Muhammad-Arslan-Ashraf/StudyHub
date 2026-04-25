@@ -350,7 +350,7 @@ export default function App() {
       {/* ── Footer ── */}
       <footer className="border-t border-white/[0.07] py-6 text-center">
         <p className="text-xs text-white/20 flex items-center justify-center gap-1">
-          StudyHub — Sharing knowledge is
+          StudyHub Sharing knowledge is
           {/* Charity Icon */}
           <svg
             xmlns="http://www.w3.org/2000/svg"
