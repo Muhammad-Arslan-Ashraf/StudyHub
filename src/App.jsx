@@ -15,6 +15,7 @@ import ResourceCard from "./components/ResourceCard";
 import AddResourceModal from "./components/AddResourceModal";
 import { auth } from "./firebase";
 import { signInWithEmailAndPassword, signOut, onAuthStateChanged } from "firebase/auth";
+import { Analytics } from "@vercel/analytics/react";
 
 const FILTERS = [
   { key: "all", label: "All" },
@@ -372,6 +373,7 @@ export default function App() {
           </button>
         )}
       </footer>
+      <Analytics />
     </div>
   );
 }
