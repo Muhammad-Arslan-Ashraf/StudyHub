@@ -1,0 +1,16 @@
+# Environment variables - KABHI GITHUB PAR UPLOAD MAT KARNA
+.env
+.env.local
+env.example
+.env.production
+
+# Build output
+dist/
+
+# Dependencies
+node_modules/
+
+# Editor
+.vscode/
+.idea/
+*.local
